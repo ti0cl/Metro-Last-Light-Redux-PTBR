@@ -78,7 +78,7 @@ Quando houver uma versão testada, os arquivos de distribuição e as instruçõ
 
 ## 🤝 Créditos e transparência
 
-Projeto independente de tradução PT-BR, com apoio de ferramentas de automação e modelos de inteligência artificial, incluindo Nemotron e DeepSeek no fluxo de trabalho relatado.
+Projeto independente de tradução PT-BR, com apoio de ferramentas de automação e modelos de inteligência artificial, incluindo ChatGPT, NVidia Nemotron e DeepSeek no fluxo de trabalho relatado.
 
 Créditos adicionais de colaboradores e ferramentas serão documentados conforme sua participação for confirmada.
 
