@@ -25,11 +25,11 @@ O objetivo é traduzir o conteúdo textual do jogo, preservando o contexto narra
 | Indicador | Quantidade |
 |---|---:|
 | Entradas identificadas na fonte | 23.947 |
-| Traduções informadas como concluídas | 2.561 |
-| Entradas restantes (estimativa) | 21.386 |
-| Progresso estimado | **10,7%** |
+| Traduções informadas como concluídas | 12.350 |
+| Entradas restantes (estimativa) | 11.597 |
+| Progresso estimado | **51,57%** |
 
-`██░░░░░░░░░░░░░░░░░░ 10,7%`
+`██░░░░░░░░░░░░░░░░░░ 51,57%`
 
 **Atenção:** o percentual representa o avanço informado na produção de textos, não o percentual de arquivos já testados e integrados ao jogo. A contagem será atualizada após novas validações.
 
@@ -56,13 +56,13 @@ O trabalho utiliza automação e agentes de IA para auxiliar na produção de fe
 |---|---|
 | 17/11/2026 | Levantamento informado: 23.947 entradas, sendo 2.561 traduções concluídas. |
 | 17/11/2026 | Agentes Nemotron e DeepSeek atuando na coordenação, tradução e ferramentas auxiliares. |
-| 17/11/2026 | Lote `l01_jail` de 532 falas em processamento; consolidação final ainda não confirmada. |
+| 17/11/2026 | Lote `247_jail` de 532 falas em processamento; consolidação final ainda não confirmada. |
 
 > Este histórico será ampliado conforme forem disponibilizados relatórios verificados.
 
 ## 🎯 Próximas etapas
 
-- [ ] Consolidar e validar o lote `l01_jail`.
+- [ ] Consolidar e validar o lote `247_jail`.
 - [ ] Confirmar os totais de traduções efetivamente aprovadas.
 - [ ] Prosseguir com os demais diálogos e textos do jogo.
 - [ ] Revisar a consistência da terminologia e dos marcadores técnicos.
