@@ -29,7 +29,7 @@ O objetivo é traduzir o conteúdo textual do jogo, preservando o contexto narra
 | Entradas restantes (estimativa) | 11.597 |
 | Progresso estimado | **51,57%** |
 
-`██░░░░░░░░░░░░░░░░░░ 51,57%`
+`██████████░░░░░░░░░ 51,57%`
 
 **Atenção:** o percentual representa o avanço informado na produção de textos, não o percentual de arquivos já testados e integrados ao jogo. A contagem será atualizada após novas validações.
 
