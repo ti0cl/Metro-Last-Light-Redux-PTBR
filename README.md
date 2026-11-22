@@ -56,7 +56,8 @@ O trabalho utiliza automação e agentes de IA para auxiliar na produção de fe
 |---|---|
 | 17/11/2026 | Levantamento informado: 23.947 entradas, sendo 2.561 traduções concluídas. |
 | 17/11/2026 | Agentes Nemotron e DeepSeek atuando na coordenação, tradução e ferramentas auxiliares. |
-| 17/11/2026 | Lote `247_jail` de 532 falas em processamento; consolidação final ainda não confirmada. |
+| 17/11/2026 | Lote `101_jail` de 532 falas em processamento; consolidação final ainda não confirmada. |
+| 22/11/2026 | Lote `247_jail` de 532 falas em processamento; consolidação final ainda não confirmada. |
 
 > Este histórico será ampliado conforme forem disponibilizados relatórios verificados.
 
