@@ -61,7 +61,7 @@ O trabalho utiliza automação e agentes de IA para auxiliar na produção de fe
 | 17/11/2026 | Agentes Nemotron e DeepSeek atuando na coordenação, tradução e ferramentas auxiliares. |
 | 17/11/2026 | Lote `101_jail` de 799 em processamento; consolidação final ainda não confirmada. |
 | 22/11/2026 | Lote `247_jail` de 799 em processamento; consolidação final ainda não confirmada. |
-| 228/11/2026 | Lote `487_jail` de 799 em processamento; consolidação final ainda não confirmada. |
+| 28/11/2026 | Lote `487_jail` de 799 em processamento; consolidação final ainda não confirmada. |
 
 > Este histórico será ampliado conforme forem disponibilizados relatórios verificados.
 
