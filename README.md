@@ -67,7 +67,7 @@ O trabalho utiliza automação e agentes de IA para auxiliar na produção de fe
 
 ## 🎯 Próximas etapas
 
-- [ ] Consolidar e validar o lote `287_jail`.
+- [ ] Consolidar e validar o lote `487_jail`.
 - [ ] Confirmar os totais de traduções efetivamente aprovadas.
 - [ ] Prosseguir com os demais diálogos e textos do jogo.
 - [ ] Revisar a consistência da terminologia e dos marcadores técnicos.
